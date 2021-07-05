@@ -1,0 +1,6 @@
+subscription_id = "Enter your own Subscription ID"
+client_id = "Enter Your created Application Client ID"
+client_secret = "Enter Your created Application Password"
+tenant_id = "Enter your Tenant ID"
+rg_name ="Enter the Name for your Resource group"
+location ="Enter the Azure resource region"
